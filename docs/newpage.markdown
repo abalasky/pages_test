@@ -1,7 +1,7 @@
-___
+---
 layout: page
-title: "PAGE TITLE"
+title: NewPage
 permalink: /newpage/
-___
+---
 
 Some content on this page.
